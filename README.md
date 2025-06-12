@@ -32,7 +32,7 @@ Tu peux personnaliser les mots-clés et les réponses très facilement dans le f
 
 1. Clone ou télécharge le projet :
    ```bash
-   git clone https://github.com/ton-pseudo/arc.git
+   git clone https://github.com/teroryx/arc.git
    cd arc
 
     Ouvre le fichier index.html dans ton navigateur.
